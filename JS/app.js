@@ -4,6 +4,7 @@ function colorAleatorio() {
     const indice = Math.floor(Math.random() * colores.length);
     return colores[indice];
 }
+
 // Selecciona todas las etiquetas h5
 const titulosH5 = document.querySelectorAll("h5");
 
@@ -12,4 +13,6 @@ titulosH5.forEach(h5 => {
     h5.addEventListener("click", () => {
         h5.style.color = colorAleatorio();
     });
+});
+
 });
