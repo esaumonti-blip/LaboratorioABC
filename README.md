@@ -13,15 +13,15 @@ El equipo está conformado por **9 integrantes**, cada uno responsable de un blo
 
 |  Persona  |  Letras |
 |-----------|---------|
-| Persona 1 | A, B, C |
-| Persona 2 | D, E, F |
-| Persona 3 | G, H, I |
-| Persona 4 | J, K, L |
-| Persona 5 | M, N, Ñ |
-| Persona 6 | O, P, Q |
-| Persona 7 | R, S, T |
-| Persona 8 | U, V, W |
-| Persona 9 | X, Y, Z |
+| Persona 1 | A, B, C | Isaura Casas
+| Persona 2 | D, E, F | Esaú Montiel
+| Persona 3 | G, H, I | Gabriel Flores
+| Persona 4 | J, K, L | Mariana Carmona
+| Persona 5 | M, N, Ñ | Oscar Monroy
+| Persona 6 | O, P, Q | Hageo Juda Balam
+| Persona 7 | R, S, T | José Nieves
+| Persona 8 | U, V, W | Juan Alarcón
+| Persona 9 | X, Y, Z | Andrea Meneses
 
 Cada participante trabajó en su propia **rama**, siguiendo la convención:
 
